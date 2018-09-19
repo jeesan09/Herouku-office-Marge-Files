@@ -1,0 +1,37 @@
+ng new AppName
+npm install -g @angular/cli
+ng add @angular/material
+
+
+----if Problem---------
+ng update @angular/cli
+-----------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+-----------------------------
+inside :app.module.ts
+import { MatExpansionModule } from '@angular/material';
+
+
+
+
+------------------------------------------
+npm installation problem
+
+npm i -g npm@latest.
+npm cache clean -f
+npm install -g npm
