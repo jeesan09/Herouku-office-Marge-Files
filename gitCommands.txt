@@ -1,0 +1,6 @@
+echo "# Herouku-office-Marge-Files" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/jeesan09/Herouku-office-Marge-Files.git
+git push -u origin master
